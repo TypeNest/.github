@@ -2,7 +2,8 @@
 
 <hr>
 
-![70da7ceef81c8a8310ed8e6bed6d90d9](https://github.com/TypeNest/.github/assets/156522801/6510c292-6be8-4ccf-9141-ecdead5c74b2)
+<div style="weight:200px;height:200px;">![70da7ceef81c8a8310ed8e6bed6d90d9](https://github.com/TypeNest/.github/assets/156522801/6510c292-6be8-4ccf-9141-ecdead5c74b2)</div>
+
 
 
 <h1 align="center">Nosotros<h1/>
